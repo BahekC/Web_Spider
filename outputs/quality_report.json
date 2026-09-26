@@ -1,0 +1,47 @@
+{
+  "news": {
+    "path": "outputs\\news.json",
+    "count": 149,
+    "csv_count": 149,
+    "duplicate_urls": 0,
+    "missing": {
+      "collected_at": 0,
+      "date": 0,
+      "source": 0,
+      "summary": 149,
+      "title": 0,
+      "url": 0
+    },
+    "errors": []
+  },
+  "ecommerce": {
+    "path": "outputs\\ecommerce.json",
+    "count": 117,
+    "csv_count": 117,
+    "duplicate_urls": 0,
+    "missing": {
+      "category": 0,
+      "collected_at": 0,
+      "currency": 0,
+      "price": 0,
+      "rating": 0,
+      "source": 0,
+      "store": 0,
+      "summary": 0,
+      "title": 0,
+      "url": 0
+    },
+    "errors": [],
+    "price_analysis": {
+      "currency": "USD",
+      "min": 295.99,
+      "max": 1799.0,
+      "median": 1102.66,
+      "q1": 469.1,
+      "q3": 1221.58,
+      "iqr_lower": -659.6199999999998,
+      "iqr_upper": 2350.2999999999997,
+      "outliers": []
+    }
+  }
+}
